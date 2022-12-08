@@ -6,7 +6,7 @@ My homework and projects files as a graduate student at WashU
 Fall 2022
 * [FL2022.E81.CSE.514A.01](https://github.com/kbckbc/washu_fl22_cse514) : Data Mining
 * [FL2022.E81.CSE.530S.11](https://github.com/kbckbc/washu_fl22_cse530) : Rapid Prototype Development and Creative Programming
-* [FL2022.E81.CSE.434S.01](https://github.com/kbckbc/washu_fl22_cse412) : Reverse Engineering and Malware Analysis
+* [FL2022.E81.CSE.434S.01](https://github.com/kbckbc/washu_fl22_cse434) : Reverse Engineering and Malware Analysis
 
 Spring 2022
 * [SP2022.E81.CSE.523S.01](https://github.com/kbckbc/washu_sp22_cse523) : Systems Security
