@@ -3,6 +3,12 @@ My homework and projects files as a graduate student at WashU
 
 # Table of contents
 
+Spring 2023
+* [SP2023.E81.CSE.563M.01](https://github.com/kbckbc/washu_sp23_cse563) : Digital integrated circuit design and architecture
+* [SP2023.E81.CSE.543T.01](https://github.com/kbckbc/washu_sp23_cse543) : Algorithms for Nonlinear Optimization
+
+
+
 Fall 2022
 * [FL2022.E81.CSE.514A.01](https://github.com/kbckbc/washu_fl22_cse514) : Data Mining
 * [FL2022.E81.CSE.530S.11](https://github.com/kbckbc/washu_fl22_cse530) : Rapid Prototype Development and Creative Programming
