@@ -1,13 +1,13 @@
 # washu
-My homework and projects files as a graduate student at WashU
+My homework and project files as a graduate student at WashU.
+I did it by myself and put a lot of effort to get them done. 
+I'm really happy that I made it! Hurray!!
 
 # Table of contents
 
 Spring 2023
 * [SP2023.E81.CSE.563M.01](https://github.com/kbckbc/washu_sp23_cse563) : Digital integrated circuit design and architecture
 * [SP2023.E81.CSE.543T.01](https://github.com/kbckbc/washu_sp23_cse543) : Algorithms for Nonlinear Optimization
-
-
 
 Fall 2022
 * [FL2022.E81.CSE.514A.01](https://github.com/kbckbc/washu_fl22_cse514) : Data Mining
@@ -23,7 +23,4 @@ Fall 2021
 * [FL2021.E81.CSE.570S.01](https://github.com/kbckbc/washu_fl21_cse570) : Recent Advances in Networking
 * [FL2021.E81.CSE.467S.01](https://github.com/kbckbc/washu_fl21_cse467) : Embedded Computing Systems
 * [FL2021.E81.CSE.247.01](https://github.com/kbckbc/washu_fl21_cse247) : Data Structures and Algorithms
-
-
-
 
